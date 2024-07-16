@@ -58,6 +58,19 @@ p {
   color: #91a6c7;
 }
 
+footer {
+  height: 40px; /* Adjust to the height of your footer */
+  background: #ffffff;
+  color: white;
+  text-align: center;
+  /* padding: 10px; */
+  padding-bottom: 50px;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
 @media (min-width: 500px) {
   #main-container {
     background-color: #ffffff;
