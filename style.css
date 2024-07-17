@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background-color: #808a9c;
+  background-color: #d3dbe9;
   font-family: "Outfit", sans-serif;
 }
 
@@ -59,11 +59,10 @@ p {
 }
 
 footer {
-  height: 40px; /* Adjust to the height of your footer */
+  height: 40px;
   background: #ffffff;
   color: white;
   text-align: center;
-  /* padding: 10px; */
   padding-bottom: 50px;
   margin: 0;
   position: absolute;
@@ -75,6 +74,7 @@ footer {
   #main-container {
     background-color: #ffffff;
     width: 375px;
+    padding: 5px;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
